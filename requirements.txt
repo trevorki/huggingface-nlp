@@ -1,0 +1,12 @@
+# use this for google colab
+tensorflow
+torch
+torchvision 
+torchaudio
+transformers
+huggingface-hub
+evaluate
+scikit-learn
+zstandard
+python-dotenv
+datasets
