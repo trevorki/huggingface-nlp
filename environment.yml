@@ -22,4 +22,5 @@ dependencies:
     - faiss-cpu
     - huggingface-hub
     - datasets
+    - seqeval
 

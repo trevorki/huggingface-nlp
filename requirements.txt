@@ -10,3 +10,4 @@ scikit-learn
 zstandard
 python-dotenv
 datasets
+seqeval
